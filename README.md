@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine Ben Salah</h1>
 <h1 align="center">I'm based in Tunisia</h1>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 📫 How to reach me **mohamedamine.bensalah@esprit.tn**
+- 📫 How to reach me mohamedamine.bensalah@esprit.tn
 
 
 <h3 align="left">Connect with me:</h3>
